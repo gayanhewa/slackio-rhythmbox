@@ -1,7 +1,7 @@
 # __init__.py
 #
-# Copyright (C) 2010 - Filipp Ivanov
-#
+# Copyright (C) 2014 - Gayan Hewa
+# Based on the im-status plugin
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation; either version 2, or (at your option)
